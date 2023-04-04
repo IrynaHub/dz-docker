@@ -1,0 +1,1 @@
+docker run --name docker-init-db -e POSTGRES_PASSWORD=$2pl$R38GN4I -p 9090:5432 -d postgres
